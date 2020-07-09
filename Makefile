@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: stestein <marvin@student.42.us.org>        +#+  +:+       +#+         #
+#    By: stestein <marvin@org>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/04/24 21:16:40 by stestein          #+#    #+#              #
 #    Updated: 2018/06/27 12:22:38 by stestein         ###   ########.fr        #
